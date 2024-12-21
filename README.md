@@ -7,17 +7,17 @@
 
 - ⚡ Fun fact **Everything Interests me.**
 
-  ## About Me
+## About Me
 Hey there! I'm a data enthusiast with over 4 years of experience turning numbers into stories that drive decisions. I love diving into data, whether it’s analyzing trends, building dashboards, or simplifying complex information for everyone to understand. My work spans industries like healthcare, retail, and utilities, where I’ve used tools like SQL, Python, and Power BI to make an impact.
 
 ## What I Do
 I’ve worked on creating interactive dashboards, cleaning up messy data, and automating boring reporting tasks to save time and improve accuracy. Whether it’s designing ETL processes or spotting trends in large datasets, I’m all about finding ways to make data work smarter, not harder. Data visualization, predictive analytics, and tracking KPIs? Yep, I’ve got that covered too!
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sarthakshah03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka." height="30" width="40" /></a>
 </p>
-
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
